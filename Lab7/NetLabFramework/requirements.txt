@@ -1,0 +1,6 @@
+Flask
+requests
+Faker
+Flask-Cors
+tabulate
+termcolor
